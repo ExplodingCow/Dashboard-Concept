@@ -1,13 +1,9 @@
-#navbar {
+.datPinkColor {
 	background-color: rgb(226,0,99);
 }
 
 #jumbotron {
 	background-color: black;
-}
-
-#overview {
-	background-color: rgb(226,0,99);
 }
 
 #firstProgressBar {
@@ -18,14 +14,6 @@
 #secondProgressBar {
 	background-color: darkgrey; 
 	width: 57%;
-}
-
-#card {
-	background-color: rgb(226,0,99);
-}
-
-#secondCard {
-	background-color: rgb(226,0,99);
 }
 
 #footer {
